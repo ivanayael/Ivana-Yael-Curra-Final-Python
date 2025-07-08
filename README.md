@@ -40,6 +40,16 @@ python .\main.py
 
 Programa Talento Tech - Buenos Aires, Argentina - Julio 2025
 
+## Posibles mejoras
+
+- Aplicar más markdown al codigo
+- Aplicar seguridad con hast o codigo propio de seguridad
+- Se puede encontrar mas información sobre como mejorar la seguridad en los siguientes links
+
+[Cómo guardas las contraseñas y claves en python](https://www.codigopiton.com/como-guardar-contrasenas-y-claves-en-python/)
+
+[Secure Password Handling in Python](https://martinheinz.dev/blog/59)
+
 ## Licencia
 
 [Ivana Yael Currá](https://linkedin.com/in/ivanayael)
