@@ -20,7 +20,7 @@ python -m pip install tabulate
 
 ## Uso
 
-## 3) haga click en iniciar desde main.py
+## 1) haga click en iniciar desde main.py
 
 ```python
 python .\main.py
